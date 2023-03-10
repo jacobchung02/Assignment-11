@@ -1,0 +1,7 @@
+Count of words in file words.txt:
+
+apples 221
+bananas 202
+cheese 186
+mushrooms 200
+yogurt 191
